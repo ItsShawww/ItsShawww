@@ -1,8 +1,8 @@
 <H1>👋 Hi, I am Shaurya</H1> 
-💻 High Schooler | Low-Level | Experimental 
+<H2>💻 High Schooler | **Low-Level** | <u>Experimental</u></H2> 
 
-###Worked With:
-OpenGL, C++, C, Python, Webdev and SQL
+<H2>Worked With:</H2>
+<H3>OpenGL, C++, C, Python, Webdev and SQL</H3>
 
 <!--
 **ItsShawww/ItsShawww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
