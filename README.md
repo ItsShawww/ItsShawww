@@ -1,5 +1,5 @@
-##👋 Hi, I am Shaurya 
-###💻 High Schooler | Low-Level | Experimental 
+<H1>👋 Hi, I am Shaurya</H1> 
+💻 High Schooler | Low-Level | Experimental 
 
 ###Worked With:
 OpenGL, C++, C, Python, Webdev and SQL
